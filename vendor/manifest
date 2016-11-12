@@ -1,0 +1,82 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/alecthomas/log4go",
+			"repository": "https://github.com/alecthomas/log4go",
+			"vcs": "git",
+			"revision": "e5dc62318d9bd58682f1dceb53a4b24e8253682f",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/gorilla/websocket",
+			"repository": "https://github.com/gorilla/websocket",
+			"vcs": "git",
+			"revision": "e8f0f8aaa98dfb6586cbdf2978d511e3199a960a",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/jpillora/backoff",
+			"repository": "https://github.com/jpillora/backoff",
+			"vcs": "git",
+			"revision": "a6f64285fd4072883335339357436b78d62c96a4",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/mattermost/platform/einterfaces",
+			"repository": "https://github.com/mattermost/platform",
+			"vcs": "git",
+			"revision": "b9a9ecedae592fb38e35152d34eae46cbf93233c",
+			"branch": "release-3.4",
+			"path": "/einterfaces",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/mattermost/platform/model",
+			"repository": "https://github.com/mattermost/platform",
+			"vcs": "git",
+			"revision": "b9a9ecedae592fb38e35152d34eae46cbf93233c",
+			"branch": "release-3.4",
+			"path": "/model",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/nicksnyder/go-i18n/i18n",
+			"repository": "https://github.com/nicksnyder/go-i18n",
+			"vcs": "git",
+			"revision": "991e81cc94f6c54209edb3192cb98e3995ad71c1",
+			"branch": "master",
+			"path": "/i18n",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/pborman/uuid",
+			"repository": "https://github.com/pborman/uuid",
+			"vcs": "git",
+			"revision": "3d4f2ba23642d3cfd06bd4b54cf03d99d95c0f1b",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/crypto/bcrypt",
+			"repository": "https://go.googlesource.com/crypto",
+			"vcs": "git",
+			"revision": "9477e0b78b9ac3d0b03822fd95422e2fe07627cd",
+			"branch": "master",
+			"path": "/bcrypt",
+			"notests": true
+		},
+		{
+			"importpath": "golang.org/x/crypto/blowfish",
+			"repository": "https://go.googlesource.com/crypto",
+			"vcs": "git",
+			"revision": "9477e0b78b9ac3d0b03822fd95422e2fe07627cd",
+			"branch": "master",
+			"path": "/blowfish",
+			"notests": true
+		}
+	]
+}
