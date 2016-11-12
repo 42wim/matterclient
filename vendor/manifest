@@ -29,8 +29,8 @@
 			"importpath": "github.com/mattermost/platform/einterfaces",
 			"repository": "https://github.com/mattermost/platform",
 			"vcs": "git",
-			"revision": "b9a9ecedae592fb38e35152d34eae46cbf93233c",
-			"branch": "release-3.4",
+			"revision": "b55ec6148caa93d54b660afe55408c643d217108",
+			"branch": "release-3.5",
 			"path": "/einterfaces",
 			"notests": true
 		},
@@ -38,8 +38,8 @@
 			"importpath": "github.com/mattermost/platform/model",
 			"repository": "https://github.com/mattermost/platform",
 			"vcs": "git",
-			"revision": "b9a9ecedae592fb38e35152d34eae46cbf93233c",
-			"branch": "release-3.4",
+			"revision": "b55ec6148caa93d54b660afe55408c643d217108",
+			"branch": "release-3.5",
 			"path": "/model",
 			"notests": true
 		},
